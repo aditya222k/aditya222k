@@ -17,6 +17,9 @@ I'm currently a 4th Year B.Tech Student from SRM University. I'm a Flutter Devel
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.oracle.com/java/technologies/java-se-glance.html" target="_blank" title ="Java"> <img
+            src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"
+            alt="Java" width="50" height="50" /> </a>
     <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
