@@ -23,18 +23,18 @@ I'm currently a 4th Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>   
+     <a href="https://www.mysql.com/" target="_blank" title ="mySQL"> <img
+            src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
+            alt="nodejs" width="40" height="40" /> </a> 
+     <a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" title ="mySQL"> <img
-            src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
-            alt="nodejs" width="40" height="40" /> </a> 
     <a href="https://flutter.dev/" target="_blank" title ="bootstrap studio"> <img
             src="https://plugins.jetbrains.com/files/12411/70430/icon/META-INF_pluginIcon.svg"
             alt="Flutter" width="40" height="40" /> </a>
