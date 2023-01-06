@@ -26,9 +26,9 @@ I'm currently a 4th Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>     
+            alt="javascript" width="40" height="40" /> </a>   
     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
