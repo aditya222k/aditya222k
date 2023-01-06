@@ -20,6 +20,12 @@ I'm currently a 4th Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>     
     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
@@ -46,20 +52,15 @@ I'm currently a 4th Year B.Tech Student from SRM University. I'm a Flutter Devel
     <a href="https://firebase.google.com/" target="_blank" title ="Firebase"> <img
             src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png"
             alt="Firebase" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>     
     <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank" title ="VsCode"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"             alt="vscode" width="40"height="40" /> </a>
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
+            alt="vscode" width="40"height="40" /> </a>
 
     
 </p>
