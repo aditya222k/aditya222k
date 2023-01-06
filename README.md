@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm currently a 4th Year B.Tech Student from SRM University. I'm a Flutter Developer.
+I am a final year engineering student at SRM Institute of Science and Technology, where I have been focused on developing a strong foundation in web and app development . As I near the end of my academic career, I am eager to continue learning and expanding my skillset through practical experience and professional development opportunities.
 
 
 <p>
